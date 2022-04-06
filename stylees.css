@@ -1,0 +1,49 @@
+*{
+    font-family: sans-serif;
+}
+body{
+    background-image: url("https://previews.123rf.com/images/liligraphie/liligraphie1512/liligraphie151200425/49645260-vintage-style-light-grey-wooden-background-abstract-wood-texture-natural-pattern.jpg");
+}
+div{
+    padding: 1em;
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    margin:0 auto;
+    width: 300px;
+}
+.Okey{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    margin:0 auto;
+    width: 300px;
+}
+.Ok{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    margin:0 auto;
+    width: 300px;
+}
+button{
+background-color: rgb(177, 36, 36);
+font-family: monospace;
+font-size: 30px;
+color: azure;
+}
+button:hover{
+    background-color:red;
+}
+.img1{
+    border-radius: 80px;
+    width: 330px;
+    padding: 10px;
+}
+.img2{
+    border-radius: 80px;
+    width: 330px;
+    padding: 10px;
+}
